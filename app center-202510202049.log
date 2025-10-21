@@ -1,0 +1,517 @@
+2025-10-19 14:02:43 +0000 [INFO] [BaseLogFileManager.swift:86] Created logs directory at: /var/mobile/Containers/Data/Application/92FD3BF8-5EB2-47C0-BEB4-3D66286F0399/Documents/HealthChecks
+2025-10-19 14:02:43 +0000 [INFO] [BaseLogFileManager.swift:109] Accessing logs directory: /var/mobile/Containers/Data/Application/92FD3BF8-5EB2-47C0-BEB4-3D66286F0399/Documents/HealthChecks
+2025-10-19 14:02:43 +0000 [INFO] [BaseLogFileManager.swift:109] Accessing logs directory: /var/mobile/Containers/Data/Application/92FD3BF8-5EB2-47C0-BEB4-3D66286F0399/Documents/Logs
+2025-10-19 14:02:43 +0000 [INFO] [BaseLogFileManager.swift:128] Created README file at: /var/mobile/Containers/Data/Application/92FD3BF8-5EB2-47C0-BEB4-3D66286F0399/Documents/HealthChecks/README.txt
+2025-10-19 14:02:43 +0000 [INFO] [BaseLogFileManager.swift:109] Accessing logs directory: /var/mobile/Containers/Data/Application/92FD3BF8-5EB2-47C0-BEB4-3D66286F0399/Documents/HealthChecks
+2025-10-19 14:02:43 +0000 [INFO] [BaseLogFileManager.swift:120] README already exists at: /var/mobile/Containers/Data/Application/92FD3BF8-5EB2-47C0-BEB4-3D66286F0399/Documents/HealthChecks/README.txt
+2025-10-19 14:02:43 +0000 [INFO] [AppDelegate.swift:528] App Version: 11.2.1 (5748).
+2025-10-19 14:02:43 +0000 [INFO] [AppDelegate.swift:531] Client Settings: [firstRunExperience: true, appWindowMode: Window, bookmarkDisplayMode: Thumbnail, appRatingInfo: AppRatingInfo={count=0, lastTimeCounted=2001-01-01 00:00:00 +0000, lastVersionCounted=}]..
+2025-10-19 14:02:43 +0000 [INFO] [AppDelegate.swift:534] Client Feature Set: ["Feature.PopOverWindowMode": true, "Feature.SupportLogs": true, "Feature.PrinterRedirection": false, "Feature.Themes": true, "Feature.FlightingSupportLogs": false, "Feature.Workspaces": false, "Feature.UpdateService": false, "Feature.ColorDepth": false, "Feature.AppRating": false, "Feature.Telemetry": true, "Feature.Flighting": true].
+2025-10-19 14:02:43 +0000 [VERBOSE] [AppDelegate.swift:438] Initializing flighting with appcenter.
+2025-10-19 14:02:43 +0000 [INFO] [BaseLogFileManager.swift:109] Accessing logs directory: /var/mobile/Containers/Data/Application/92FD3BF8-5EB2-47C0-BEB4-3D66286F0399/Documents/Logs
+2025-10-19 14:02:43 +0000 [INFO] [BaseLogFileManager.swift:109] Accessing logs directory: /var/mobile/Containers/Data/Application/92FD3BF8-5EB2-47C0-BEB4-3D66286F0399/Documents/Logs
+2025-10-19 14:02:43 +0000 [VERBOSE] [AppDelegate.swift:473] Initializing RdCore.
+2025-10-19 14:02:43 +0000 [VERBOSE] [AppDelegate.swift:635] Initializing stores.
+2025-10-19 14:02:43 +0000 [VERBOSE] [AppDelegate.swift:677] Initializing providers.
+2025-10-19 14:02:43 +0000 [VERBOSE] [AppDelegate.swift:654] Initializing telemetry.
+2025-10-19 14:02:43 +0000 [VERBOSE] [AppDelegate.swift:711] Initializing handlers.
+2025-10-19 14:02:43 +0000 [VERBOSE] [AppDelegate.swift:715] Initializing listeners.
+2025-10-19 14:02:43 +0000 [VERBOSE] [AppDelegate.swift:730] Initializing view.
+2025-10-19 14:02:43 +0000 [INFO] [ThumbnailListenerManager.swift:64] Thumbnail listener manager loaded.
+2025-10-19 14:02:43 +0000 [WARNING] [AppDelegate.swift:1051] [ExternalMouse] Bluetooth not authorized - External Mouse integration deferred
+2025-10-19 14:02:43 +0000 [VERBOSE] [AppDelegate.swift:284] [TEARDOWN] Clean up user defaults at the start of app launch.
+2025-10-19 14:02:43 +0000 [INFO] [NetworkMonitor.swift:155] [NetworkMonitor] Overview=satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi, LQM: good | Status=satisfied | ActiveInterface=en0[wifi] | AvailableInterfaces=[en0[wifi], en0[wifi], pdp_ip0[cellular], utun4[other]] | Expensive=0 | Constrained=0
+2025-10-19 14:02:43 +0000 [INFO] [DisplayResolutions.swift:253] SafeAreaInsets: UIEdgeInsets(top: 59.0, left: 0.0, bottom: 59.0, right: 0.0)
+2025-10-19 14:02:43 +0000 [WARNING] [ADALControllerImpl.swift:628] [MSAL:0005]	WARNING	Start:52	Request dispatcher already running, attempt to start ignored
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0005]	DEBUG  	SetTimeField:190	Key: start_time, Value: 2025-10-19T14:02:43.000Z
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0005]	DEBUG  	SetField:171	Key: api_name, Value: ReadDeviceInfo
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0005]	DEBUG  	SetField:171	Key: client_id, Value: undefined
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0005]	DEBUG  	SetField:171	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0005]	DEBUG  	SetField:171	Key: correlation_id, Value: 39dbe0fc-0b2a-4083-a655-f26abfb629ac
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0005]	DEBUG  	SetField:171	Key: authority_type, Value: Unknown
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0005]	DEBUG  	SetField:171	Key: was_request_throttled, Value: false
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0005]	DEBUG  	SetField:171	Key: broker_app_used, Value: false
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0005]	DEBUG  	EnqueueBackgroundRequest:160	Enqueueing Request 2
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0005]	DEBUG  	WakeupDispatcherThread:429	Signalling _dispatcherEvent
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:284	WOKE UP
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:279	Checking queue
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	TryExecuteNextQueueItem:345	Popping item 2 from queue and executing it
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	WakeupDispatcherThread:429	Signalling _dispatcherEvent
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:284	WOKE UP
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:279	Checking queue
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	TryExecuteNextQueueItem:327	Request queue is empty, no item to execute
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0006]	DEBUG  	ExecuteQueueItemThreadProc:375	Executing item 2
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	-[MSAIBrokerClient isAuthorizationTypeSupported:]:849	Broker cannot perform device info requests
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	+[MSAIMSIDWorkPlaceJoinUtilBase getWPJKeysWithTenantId:context:]:293	TID=293652 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:02:43] Checking Legacy keychain for registration.
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0006]	DEBUG  	-[MSAIMSIDWPJKeyPairWithCert initWithPrivateKey:certificate:certificateIssuer:]:85	TID=293652 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:02:43] Retrieved WPJ issuer 0x1v0
+	&ò,dnet0
+	&ò,dwindows0UMS-ORGANIZATION-ACCESS0+U$82DBACA4-3E81-46CA-9C73-0950C1EACA97
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	+[MSAIMSIDWorkPlaceJoinUtilBase getWPJKeysWithTenantId:context:]:299	TID=293652 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:02:43] Returning RSA private device key from legacy registration.
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0006]	DEBUG  	AppendExecutionFlow:406	{"t":"4we74","tid":6,"ts":0,"l":2}
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0006]	DEBUG  	SetTimeField:190	Key: stop_time, Value: 2025-10-19T14:02:43.000Z
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0006]	DEBUG  	SetField:171	Key: request_duration, Value: 5
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:456	Printing Telemetry for Correlation ID: 39dbe0fc-0b2a-4083-a655-f26abfb629ac
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:464	Key: stop_time, Value: 2025-10-19T14:02:43.000Z
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:464	Key: was_request_throttled, Value: false
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:464	Key: authority_type, Value: Unknown
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:464	Key: broker_app_used, Value: false
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:464	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:464	Key: start_time, Value: 2025-10-19T14:02:43.000Z
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:464	Key: client_id, Value: undefined
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:464	Key: request_duration, Value: 5
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:464	Key: api_name, Value: ReadDeviceInfo
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:464	Key: correlation_id, Value: 39dbe0fc-0b2a-4083-a655-f26abfb629ac
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:469	Printing Execution Flow:
+2025-10-19 14:02:43 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0006]	INFO   	LogTelemetryData:477	{"t":"4we74","tid":6,"ts":0,"l":2}
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0006]	DEBUG  	ExecuteQueueItemThreadProc:377	Item 2 finished executing without throwing an error
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0006]	DEBUG  	UntrackQueueItem:418	Untracked queue item 2
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0006]	DEBUG  	WakeupDispatcherThread:429	Signalling _dispatcherEvent
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:284	WOKE UP
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:279	Checking queue
+2025-10-19 14:02:43 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	TryExecuteNextQueueItem:327	Request queue is empty, no item to execute
+2025-10-19 14:02:43 +0000 [INFO] [AriaTelemetryManager.swift:87] OfficeConfigService - resolved collector url: 'https://mobile.events.data.microsoft.com/OneCollector/1.0/' for telemetry region: 'GLOBAL'
+2025-10-19 14:02:43 +0000 [VERBOSE] [BookmarkItemCollectionViewModel.swift:142] Reloading bookmark item collection view model.
+2025-10-19 14:02:43 +0000 [VERBOSE] [BookmarkItemCollectionViewModel.swift:142] Reloading bookmark item collection view model.
+2025-10-19 14:02:43 +0000 [VERBOSE] [BookmarkItemCollectionViewModel.swift:142] Reloading bookmark item collection view model.
+2025-10-19 14:02:43 +0000 [VERBOSE] [BookmarkItemCollectionViewModel.swift:142] Reloading bookmark item collection view model.
+2025-10-19 14:02:43 +0000 [INFO] [AriaTelemetryManager.swift:92] Initializing aria with collector URL: https://mobile.events.data.microsoft.com/OneCollector/1.0/
+2025-10-19 14:02:43 +0000 [VERBOSE] [BookmarkItemCollectionViewModel.swift:149] Bookmark item collection view model loaded.
+2025-10-19 14:02:43 +0000 [VERBOSE] [BookmarkItemCollectionViewModel.swift:149] Bookmark item collection view model loaded.
+2025-10-19 14:02:43 +0000 [VERBOSE] [BookmarkItemCollectionViewModel.swift:149] Bookmark item collection view model loaded.
+2025-10-19 14:02:43 +0000 [VERBOSE] [BookmarkItemCollectionViewModel.swift:149] Bookmark item collection view model loaded.
+2025-10-19 14:02:45 +0000 [VERBOSE] [SpotlightSearchController.swift:114] [SPOTLIGHT SEARCH] search items indexed successfully
+2025-10-19 14:02:46 +0000 [INFO] [ExternalMouseManager.swift:608] [ExternalMouse] Bluetooth state updated: 5
+2025-10-19 14:02:46 +0000 [INFO] [ExternalMouseManager.swift:184] [ExternalMouse] Starting scan for services: B12EB001-1810-46C4-9BAB-8C1791254071 (HID fallback=false)
+2025-10-19 14:02:48 +0000 [VERBOSE] [NetworkMonitor.swift:74] [NetowrkMonitor] Send network status changed notification to connected
+2025-10-19 14:02:53 +0000 [VERBOSE] [LocalNetworkRequest.swift:82] [LocalNetworkRequest] Ready.
+2025-10-19 14:02:53 +0000 [VERBOSE] [LocalNetworkRequest.swift:86] [LocalNetworkRequest] Cancelled.
+2025-10-19 14:02:54 +0000 [INFO] [NetworkMonitor.swift:155] [NetworkMonitor] Overview=satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi, LQM: good | Status=satisfied | ActiveInterface=en0[wifi] | AvailableInterfaces=[en0[wifi], en0[wifi], pdp_ip0[cellular], utun4[other]] | Expensive=0 | Constrained=0
+2025-10-19 14:03:13 +0000 [VERBOSE] [EditWorkspaceViewController.swift:1051] [MSALv2] acquiring token for standard claims token request
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:103] [MSALV2] B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000 acquiring token for authority: https://login.windows.net/common/, authorityType: AAD, client: 3dd3a51e-8d76-4cca-ac35-5537c1319211, redirectUri: x-msauth-rdcios://com.microsoft.rdc.ios, resource: https://www.wvd.microsoft.com, scope: , target: https://www.wvd.microsoft.com, site: 501413, realm: 00000000-0000-0000-0000-000000000000, claims: , additionalParams: nil
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:255] Creating MALAppConfiguration with appId: com.microsoft.rdc.3DD3A51E-8D76-4CCA-AC35-5537C1319211, appName: RemoteDesktopV2, appVersion: 11.2.1, locale: en_US
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:265] Creating MALAuthenticatorConfiguration with clientId: 3DD3A51E-8D76-4CCA-AC35-5537C1319211, redirectUri: x-msauth-rdcios://com.microsoft.rdc.ios, defaultSignInResource: https://www.wvd.microsoft.com, capabilities: nil
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:48bf5:ff000000] MATS DeviceProfileTelemetryId: 1BC7E6B3-0283-4AC4-9289-7D5B5E0C6749
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4md0u:ff000000] MATS device telemetry enabled.
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4yqrx:ff000000] Starting transaction for Startup
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:8mqsd:67d52c01] OneAuth Version 6.4.0 (com.microsoft.rdc.3DD3A51E-8D76-4CCA-AC35-5537C1319211)
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	GetWithId:273	Found authenticator with ID ''
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:9zj7z:67d52c01] Language code 'en_US' is not supported, fall back to 'en'
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4yqr1:ff000000] Starting transaction for readallaccounts
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0001:Verbose:6kb8z:ff000000] [main]-[MOAStoreBase readItemsWithLabel:] SecItemCopyMatching Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:9zkg3:ff000000] [main]-[MOAStoreBase readItemsWithLabel:] SecItemCopyMatching status=0 
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0001:Verbose:4yuw5:ff000000] Must initialize AccountNotifications before accessing instance.
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0001:Verbose:4yuw5:ff000000] Must initialize AccountNotifications before accessing instance.
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0001:Verbose:4yuw5:ff000000] Must initialize AccountNotifications before accessing instance.
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4yqse:ff000000] Starting transaction for signininteractively
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:9zkae:b07e0b7b] Start task SignInInteractively [0]
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4kyvo:b07e0b7b] Auth parameters provided
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:5dxs1:b07e0b7b] Account discovery started.
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:4yqb8:00000000] Starting transaction for discoveraccounts
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:8o1ow:d1f5ba24] Starting account discovery...
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetTimeField:190	Key: start_time, Value: 2025-10-19T14:03:13.000Z
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: api_name, Value: unknown
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	SetTimeField:190	Key: start_time, Value: 2025-10-19T14:03:13.000Z
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: client_id, Value: unknown
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	SetField:171	Key: api_name, Value: DiscoverAccounts
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: correlation_id, Value: b07e0b7b-b0bf-4f6e-b8c3-ae92a53f0000
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	SetField:171	Key: client_id, Value: 3dd3a51e-8d76-4cca-ac35-5537c1319211
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	SetField:171	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	SetField:171	Key: correlation_id, Value: d1f5ba24-0c7d-4f2b-931c-fd4dc7c1cebf
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: authority_type, Value: Unknown
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	SetField:171	Key: authority_type, Value: Unknown
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: was_request_throttled, Value: false
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: broker_app_used, Value: false
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	SetField:171	Key: was_request_throttled, Value: false
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:48x5m:b07e0b7b] TryLock with uxContextHandle 1 transaction id 1b02776b-a264-4b90-a746-a2267a596181
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	SetField:171	Key: broker_app_used, Value: false
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4p5fv:b07e0b7b] isAdfs false
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	ExecuteBackgroundRequestImpl:276	Executing background request 3
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	ExecuteBackgroundRequestImpl:305	Starting thread for item 3
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	AppendExecutionFlow:406	{"t":"4sufd","tid":7,"ts":0,"s":2,"l":2}
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	GetRunningThreadWorkLoopNoLock:255	Scheduling request 3
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	AppendExecutionFlow:406	{"t":"4swgg","tid":7,"ts":1,"s":3,"l":2}
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0007]	DEBUG  	AppendExecutionFlow:406	{"t":"4swgf","tid":7,"ts":1,"s":1,"l":2}
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	AppendExecutionFlow:406	{"t":"4swgi","tid":8,"ts":1,"s":3,"l":2}
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	ExecuteQueueItemThreadProc:405	Executing item 3
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	ShouldThrottleRequestInternal:34	Request: 'Environment:'(pii)' Realm:'(pii)' ClientId:'(pii)' Scopes:'(pii)''
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	AppendExecutionFlow:406	{"t":"8dqku","tid":8,"ts":1,"l":2}
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetField:171	Key: request_eligible_for_broker, Value: true
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0007:Verbose:6kb8z:d1f5ba24] [work]-[MOAStoreBase readItemsWithLabel:] SecItemCopyMatching Started
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	AppendExecutionFlow:406	{"t":"481mn","tid":8,"ts":1,"l":2}
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:9zkg3:d1f5ba24] [work]-[MOAStoreBase readItemsWithLabel:] SecItemCopyMatching status=0 
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:4940e:d1f5ba24] Sanitizing account 9eb015b353719cb6
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:6qhvn:d1f5ba24] Start DetermineFederationProvider
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0007:Verbose:6kb9v:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl lastModifiedOn:] Read Started
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0007:Verbose:6kb9x:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl lastModifiedOn:] No such file
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:9a8ho:d1f5ba24] GET: (pii)
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	-[MSAIBrokerClient getAllAccounts:correlationId:isSharedDeviceModeSupportEnabled:telemetry:]:253	Skip account discover from Sso Extension, SSOExtensionGetAccountsReques is not supported
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetField:171	Key: broker_app_used, Value: true
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	AppendField:204	Key: auth_flow, Value: Broker
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetField:171	Key: is_successful, Value: true
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetField:171	Key: broker_accounts_count, Value: 0
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	AppendExecutionFlow:406	{"t":"4qnni","tid":8,"ts":6,"l":2,"a":2,"ie":0}
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:4940e:d1f5ba24] Sanitizing account 30ee1eb9-a2cd-4cce-ad1f-486d5fd497a2
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:6qhvn:d1f5ba24] Start DetermineFederationProvider
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0007:Verbose:6kb9v:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl lastModifiedOn:] Read Started
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0007:Verbose:6kb9x:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl lastModifiedOn:] No such file
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	-[MSAIMSIDAccountCredentialCache getAccountsWithQuery:context:error:]:166	TID=294115 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:03:13 - D1F5BA24-0C7D-4F2B-931C-FD4DC7C1CEBF] (Default cache) Get accounts with environment (null), unique user id Masked(null)
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:9a8ho:d1f5ba24] GET: (pii)
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	-[MSAIMSIDKeychainTokenCache itemsWithKey:context:error:]:770	TID=294115 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:03:13 - D1F5BA24-0C7D-4F2B-931C-FD4DC7C1CEBF] Get keychain items, key info (account: Masked(null) service: (null) generic: (null) type: 1003, keychainGroup: adal keychain group)
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	-[MSAIMSIDKeychainTokenCache itemsWithKey:context:error:]:799	TID=294115 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:03:13 - D1F5BA24-0C7D-4F2B-931C-FD4DC7C1CEBF] Trying to find keychain items...
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:4940e:d1f5ba24] Sanitizing account 83d7bea69b8040b0
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:6qhvn:d1f5ba24] Start DetermineFederationProvider
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0007:Verbose:6kb9v:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl lastModifiedOn:] Read Started
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0007:Verbose:6kb9x:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl lastModifiedOn:] No such file
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0007:Info:9a8ho:d1f5ba24] GET: (pii)
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	-[MSAIMSIDKeychainTokenCache itemsWithKey:context:error:]:801	TID=294115 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:03:13 - D1F5BA24-0C7D-4F2B-931C-FD4DC7C1CEBF] Keychain find status: 0
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	-[MSAIMSIDKeychainTokenCache cacheItemsWithKey:serializer:cacheItemClass:context:error:]:756	TID=294115 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:03:13 - D1F5BA24-0C7D-4F2B-931C-FD4DC7C1CEBF] Found 3 items.
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	AppendExecutionFlow:406	{"t":"4qnnh","tid":8,"ts":20,"l":2,"a":2,"ie":1}
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetField:171	Key: storage_accounts_count, Value: 3
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetField:171	Key: is_successful, Value: true
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetTimeField:190	Key: stop_time, Value: 2025-10-19T14:03:13.000Z
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetField:171	Key: request_duration, Value: 20
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:456	Printing Telemetry for Correlation ID: d1f5ba24-0c7d-4f2b-931c-fd4dc7c1cebf
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: request_duration, Value: 20
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: stop_time, Value: 2025-10-19T14:03:13.000Z
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: storage_accounts_count, Value: 3
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: auth_flow, Value: Broker
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: authority_type, Value: Unknown
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: is_successful, Value: true
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: was_request_throttled, Value: false
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: request_eligible_for_broker, Value: true
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: broker_app_used, Value: true
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: api_name, Value: DiscoverAccounts
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: start_time, Value: 2025-10-19T14:03:13.000Z
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: client_id, Value: 3dd3a51e-8d76-4cca-ac35-5537c1319211
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: broker_accounts_count, Value: 0
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:464	Key: correlation_id, Value: d1f5ba24-0c7d-4f2b-931c-fd4dc7c1cebf
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:469	Printing Execution Flow:
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	LogTelemetryData:477	{"t":"4sufd","tid":7,"ts":0,"s":2,"l":2},{"t":"4swgg","tid":7,"ts":1,"s":3,"l":2},{"t":"4swgf","tid":7,"ts":1,"s":1,"l":2},{"t":"4swgi","tid":8,"ts":1,"s":3,"l":2},{"t":"8dqku","tid":8,"ts":1,"l":2},{"t":"481mn","tid":8,"ts":1,"l":2},{"t":"4qnni","tid":8,"ts":6,"l":2,"a":2,"ie":0},{"t":"4qnnh","tid":8,"ts":20,"l":2,"a":2,"ie":1}
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0008:Info:59ljv:d1f5ba24] Found 3 accounts using client ID: 3dd3a51e-8d76-4cca-ac35-5537c1319211
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0008:Verbose:6kb8z:d1f5ba24] [work]-[MOAStoreBase readItemsWithLabel:] SecItemCopyMatching Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0008:Info:9zkg3:d1f5ba24] [work]-[MOAStoreBase readItemsWithLabel:] SecItemCopyMatching status=0 
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0008:Info:7orfe:d1f5ba24] Start to read from MSAL cache
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	-[MSAIMSIDAccountCredentialCache getAccountsWithQuery:context:error:]:166	TID=294115 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:03:13] (Default cache) Get accounts with environment (null), unique user id Masked(null)
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	-[MSAIMSIDKeychainTokenCache itemsWithKey:context:error:]:770	TID=294115 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:03:13] Get keychain items, key info (account: Masked(null) service: (null) generic: (null) type: 1003, keychainGroup: adal keychain group)
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	-[MSAIMSIDKeychainTokenCache itemsWithKey:context:error:]:799	TID=294115 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:03:13] Trying to find keychain items...
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0008]	INFO   	-[MSAIMSIDKeychainTokenCache itemsWithKey:context:error:]:801	TID=294115 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:03:13] Keychain find status: 0
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	-[MSAIMSIDKeychainTokenCache cacheItemsWithKey:serializer:cacheItemClass:context:error:]:756	TID=294115 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:03:13] Found 3 items.
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0008:Verbose:5nhsi:d1f5ba24] Hrd Parameters are not empty
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0008:Verbose:6kb8x:d1f5ba24] [work]-[MOAStoreBase writeItemWithKey:label:value:] SecItemUpdate Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:5nqk5:b07e0b7b] Start UI Flow
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:8x51u:b07e0b7b] Launch new navigation flow
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0008:Info:9zkg1:d1f5ba24] [work]-[MOAStoreBase writeItemWithKey:label:value:] SecItemUpdate status=0 
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0008:Verbose:5nhsi:d1f5ba24] Hrd Parameters are not empty
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0008:Verbose:6kb8x:d1f5ba24] [work]-[MOAStoreBase writeItemWithKey:label:value:] SecItemUpdate Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0008:Info:9zkg1:d1f5ba24] [work]-[MOAStoreBase writeItemWithKey:label:value:] SecItemUpdate status=0 
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0008:Verbose:5nhsi:d1f5ba24] Hrd Parameters are not empty
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0008:Verbose:6kb8x:d1f5ba24] [work]-[MOAStoreBase writeItemWithKey:label:value:] SecItemUpdate Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0008:Info:9zkg1:d1f5ba24] [work]-[MOAStoreBase writeItemWithKey:label:value:] SecItemUpdate status=0 
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	ExecuteQueueItemThreadProc:407	Item 3 finished executing without throwing an error
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	CompleteBackgroundRequest:375	CompleteBackgroundRequest item 3
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0009:Info:9a8hl:d1f5ba24] HTTP request completed
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0009:Verbose:5nhsn:d1f5ba24] Hrd Parameters fetched from HRD service
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0009:Verbose:5nhsi:d1f5ba24] Hrd Parameters are not empty
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0009:Info:4mam9:d1f5ba24] Authority Host from HRD service login.microsoftonline.com
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0009:Verbose:54asi:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Write Directory Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0009:Info:53wo2:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Activity ended without error
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0009:Verbose:54asi:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Write Directory Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0009:Info:53wo2:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Activity ended without error
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0009:Info:9a8hl:d1f5ba24] HTTP request completed
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0009:Verbose:5nhsn:d1f5ba24] Hrd Parameters fetched from HRD service
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0009:Verbose:5nhsi:d1f5ba24] Hrd Parameters are not empty
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0009:Info:4mam9:d1f5ba24] Authority Host from HRD service login.microsoftonline.com
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0009:Verbose:54asi:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Write Directory Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0009:Info:53wo2:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Activity ended without error
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0009:Verbose:54asi:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Write Directory Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0009:Info:53wo2:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Activity ended without error
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0010:Info:9a8hl:d1f5ba24] HTTP request completed
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0010:Verbose:5nhsn:d1f5ba24] Hrd Parameters fetched from HRD service
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0010:Verbose:5nhsi:d1f5ba24] Hrd Parameters are not empty
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0010:Info:4mam9:d1f5ba24] Authority Host from HRD service login.microsoftonline.com
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0010:Verbose:54asi:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Write Directory Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0010:Info:53wo2:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Activity ended without error
+2025-10-19 14:03:13 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0010:Verbose:54asi:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Write Directory Started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0010:Info:53wo2:d1f5ba24] [work]-[MOAPlatformBlobStoreImpl write:content:] Activity ended without error
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0010:Info:8o1or:d1f5ba24] Finished account discovery
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:7agqg:b07e0b7b] HRD UI web navigation started
+2025-10-19 14:03:13 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:69x1w:b07e0b7b] UI input started
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:69x1t:b07e0b7b] HRD UI input complete
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:5nhsk:b07e0b7b] HRD parameters fetched from navigation flow
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [OneAuth:0001:Verbose:5nhsi:b07e0b7b] Hrd Parameters are not empty
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4vu2p:b07e0b7b] Account disambiguated. Type: aad, New Account: false
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4vm76:b07e0b7b] Start AadSignIn
+2025-10-19 14:04:18 +0000 [INFO] [OneAuthTelemetryService.swift:66] Dispatched OneAuth event: TransactionRemoteDesktopV2Ios
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4vm73:b07e0b7b] Start AadSignInMsal
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:8r3p6:b07e0b7b] Launch new navigation flow
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4vm8a:b07e0b7b] Start MSAL browser transfer
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	-[MSAIBasicEmbeddedWebViewUIController transferToMsal]:188	Scheduling unsafeTransferToMsal on main thread
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4vm79:b07e0b7b] Finish MSAL browser transfer
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	-[MSAIBasicEmbeddedWebViewUIController clearSessionCookies:]:194	Started
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	-[MSAIBasicEmbeddedWebViewUIController clearSessionCookies:]_block_invoke:200	removeDataOfTypes completed
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	SetEmbeddedBrowserFactory:332	Embedded browser factory has been set successfully
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4p5fv:b07e0b7b] isAdfs false
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	SetAuthorityUri:78	Initializing authority from URI 'https://login.windows.net/common' without authority type, defaulting to MsSts
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4p5fv:b07e0b7b] isAdfs false
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4manb:b07e0b7b] Auth params authority is not empty
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4myr1:b07e0b7b] Calling into MSAL with AAD account.
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	SetCorrelationId:259	Set correlation ID: b07e0b7b-b0bf-4f6e-b8c3-ae92a53f0000
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetTimeField:190	Key: start_time, Value: 2025-10-19T14:04:18.000Z
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: api_name, Value: SignInInteractively
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: client_id, Value: 3dd3a51e-8d76-4cca-ac35-5537c1319211
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: correlation_id, Value: b07e0b7b-b0bf-4f6e-b8c3-ae92a53f0000
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: authority_type, Value: Unknown
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: was_request_throttled, Value: false
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: broker_app_used, Value: false
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendField:204	Key: original_authority, Value: https://login.windows.net/common
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	ExecuteInteractiveRequest:1195	The original authority is 'https://login.windows.net/common'
+2025-10-19 14:04:18 +0000 [WARNING] [ADALControllerImpl.swift:628] [MSAL:0001]	WARNING	TryNormalizeRealm:2471	No HomeAccountId provided to normalize the realm
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	ValidateParams:332	Attempted to add a field to telemetry with key 'normalized_realm' and empty value. Ignoring this field.
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	ExecuteInteractiveRequest:1206	The normalized realm is ''
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendExecutionFlow:406	{"t":"646u1","tid":1,"ts":0,"l":2}
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	+[MSAIMSIDBrokerInteractiveController canPerformRequest:]:153	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Checking broker install state for version V2-broker-nonce
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	+[MSAIMSIDBrokerInteractiveController canPerformRequest:]:157	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Broker version V2-broker-nonce found installed on device
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: request_eligible_for_broker, Value: true
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	ModifyAndValidateAuthParameters:215	Additional query parameter added successfully. Key: '(pii)' Value: '(pii)'
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: additional_query_parameters_count, Value: 1
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	ModifyAndValidateAuthParameters:238	Authority Realm: common
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	ModifyAndValidateAuthParameters:292	Correlation id 'b07e0b7b-b0bf-4f6e-b8c3-ae92a53f0000'
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	TryEnqueueMsaDeviceCredentialAcquisitionAndContinue:1105	MSA device registration is not performed on AAD requests.
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendExecutionFlow:406	{"t":"4s7ub","tid":1,"ts":6,"l":2}
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	ExecuteBackgroundRequestImpl:276	Executing background request 4
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendExecutionFlow:406	{"t":"4sufd","tid":1,"ts":6,"s":2,"l":2}
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	GetRunningThreadWorkLoopNoLock:255	Scheduling request 4
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendExecutionFlow:406	{"t":"4swgg","tid":1,"ts":6,"s":4,"l":2}
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendExecutionFlow:406	{"t":"4swgf","tid":1,"ts":6,"s":1,"l":2}
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	AppendExecutionFlow:406	{"t":"4swgi","tid":8,"ts":6,"s":4,"l":2}
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	ExecuteQueueItemThreadProc:405	Executing item 4
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	AppendExecutionFlow:406	{"t":"8dqim","tid":8,"ts":6,"l":2}
+2025-10-19 14:04:18 +0000 [WARNING] [ADALControllerImpl.swift:628] [MSAL:0008]	WARNING	ReturnResponseDueToMissingParameter:716	Attempted to read cache with a non-normalized realm, access token and ID token reads will fail
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	IsMissingRequiredParameter:2793	ReturnResponseDueToMissingParameter: homeAccountId '(pii)' clientId '(pii)' environment '(pii)' realm '(pii)' target '(pii)'
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	IsMissingRequiredParameter:2796	homeAccountId was empty, not executing ReturnResponseDueToMissingParameter
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetField:171	Key: read_token_last_error, Value: missing required parameter
+2025-10-19 14:04:18 +0000 [WARNING] [ADALControllerImpl.swift:628] [MSAL:0008]	WARNING	ReturnResponseDueToMissingParameter:742	Missing Required parameters, but found no account to return.
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	GetRefreshTokenForUI:2355	Returning no refresh token for use in UI
+2025-10-19 14:04:18 +0000 [WARNING] [ADALControllerImpl.swift:628] [MSAL:0008]	WARNING	ReadAccountById:273	Account id is empty - account not found
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	+[MSAIMSIDBrokerInteractiveController canPerformRequest:]:153	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Checking broker install state for version V2-broker-nonce
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	+[MSAIMSIDBrokerInteractiveController canPerformRequest:]:157	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Broker version V2-broker-nonce found installed on device
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	+[MSAIMSIDBrokerInteractiveController canPerformRequest:]:153	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Checking broker install state for version V2-broker-nonce
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	+[MSAIMSIDBrokerInteractiveController canPerformRequest:]:157	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Broker version V2-broker-nonce found installed on device
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	AppendExecutionFlow:406	{"t":"8dqkl","tid":8,"ts":8,"l":2,"a":9,"ie":0}
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	+[MSAIMSIDBrokerInteractiveController canPerformRequest:]:153	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Checking broker install state for version V2-broker-nonce
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	+[MSAIMSIDBrokerInteractiveController canPerformRequest:]:157	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Broker version V2-broker-nonce found installed on device
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetField:171	Key: request_eligible_for_broker, Value: true
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	SetField:171	Key: ui_event_count, Value: 1
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	Execute:187	Web Flow Started
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	ExecuteQueueItemThreadProc:407	Item 4 finished executing without throwing an error
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0008]	DEBUG  	CompleteBackgroundRequest:375	CompleteBackgroundRequest item 4
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	-[MSAIMSIDKeychainTokenCache initWithGroup:error:]:169	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18] Init MSAIMSIDKeychainTokenCache with keychainGroup: Masked(not-null)
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	-[MSAIMSIDBrokerInteractiveController acquireToken:]:108	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Beginning broker flow.
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	-[MSAIMSIDAuthority resolveAndValidate:userPrincipalName:context:completionBlock:]:109	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Resolving authority: Masked(not-null), upn: auth.placeholder-0bddfe8f__fraudbountyhunters.onmicrosoft.com
+2025-10-19 14:04:18 +0000 [WARNING] [ADALControllerImpl.swift:628] [MSAL:0011]	WARNING	-[MSAIMSIDAadAuthorityCache networkUrlForAuthority:context:]:255	TID=294058 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] No cached preferred_network for authority
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0011]	DEBUG  	-[MSAIMSIDHttpRequest sendWithBlock:]:116	TID=294058 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Sending network request: (not-null), headers: (not-null)
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0011]	INFO   	-[MSAIMSIDAadAuthorityResolver resolveAuthority:userPrincipalName:validate:context:completionBlock:]_block_invoke:102	TID=294058 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Waiting on Authority Validation Queue
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0009]	DEBUG  	-[MSAIMSIDURLSessionDelegate URLSession:didReceiveChallenge:completionHandler:]:36	TID=294059 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18] session:didReceiveChallenge:completionHandler - nsurlauthenticationmethodservertrust. Host: login.microsoftonline.com. Previous challenge failure count: 0
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0012]	DEBUG  	-[MSAIMSIDHttpRequest sendWithBlock:]_block_invoke:120	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Received network response: (not-null), error (null)
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0012]	DEBUG  	-[MSAIMSIDHttpRequest sendWithBlock:]_block_invoke:162	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Parsed response: (not-null), error (null), error domain: (null), error code: 0
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0012]	INFO   	-[MSAIMSIDAadAuthorityCache processImpl:authority:openIdConfigEndpoint:context:error:]:123	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Caching AAD Environements
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0012]	INFO   	-[MSAIMSIDAadAuthorityCache processImpl:authority:openIdConfigEndpoint:context:error:]:173	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] networkHost: login.microsoftonline.com, cacheHost: login.windows.net, aliases: login.microsoftonline.com, login.windows.net, login.microsoft.com, sts.windows.net
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0012]	INFO   	-[MSAIMSIDAadAuthorityCache processImpl:authority:openIdConfigEndpoint:context:error:]:173	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] networkHost: login.partner.microsoftonline.cn, cacheHost: login.partner.microsoftonline.cn, aliases: login.partner.microsoftonline.cn, login.chinacloudapi.cn
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0012]	INFO   	-[MSAIMSIDAadAuthorityCache processImpl:authority:openIdConfigEndpoint:context:error:]:173	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] networkHost: login.microsoftonline.de, cacheHost: login.microsoftonline.de, aliases: login.microsoftonline.de
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0012]	INFO   	-[MSAIMSIDAadAuthorityCache processImpl:authority:openIdConfigEndpoint:context:error:]:173	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] networkHost: login.microsoftonline.us, cacheHost: login.microsoftonline.us, aliases: login.microsoftonline.us, login.usgovcloudapi.net
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0012]	INFO   	-[MSAIMSIDAadAuthorityCache processImpl:authority:openIdConfigEndpoint:context:error:]:173	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] networkHost: login-us.microsoftonline.com, cacheHost: login-us.microsoftonline.com, aliases: login-us.microsoftonline.com
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0012]	INFO   	-[MSAIMSIDAuthority resolveAndValidate:userPrincipalName:context:completionBlock:]_block_invoke:125	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Resolved authority, validated: YES, error: 0
+2025-10-19 14:04:18 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0012]	DEBUG  	-[MSAIMSIDBrokerKeyProvider getApplicationToken:error:]:315	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18] Broker application token not found. (status: -25300).
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0012]	INFO   	-[MSAIMSIDBrokerInteractiveController callBrokerWithRequest:]:244	TID=295033 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Invoking broker for authentication, correlationId B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000
+2025-10-19 14:04:18 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0011]	INFO   	-[MSAIMSIDAadAuthorityResolver resolveAuthority:userPrincipalName:validate:context:completionBlock:]_block_invoke:104	TID=294058 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:04:18 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Returned from Authority Validation Queue
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	-[MSAIMSIDCertAuthManager completeWithCallbackURL:]:69	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:05:14] Complete cert auth challenge with end URL: x-msauth-rdcios://com.microsoft.rdc.ios/broker?msg_protocol_ver=(not-null)&response=(not-null)&hash=(not-null)
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	-[MSAIMSIDBrokerResponseHandler handleBrokerResponseWithURL:sourceApplication:error:]:81	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:05:14] Handling broker response.
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	-[MSAIMSIDKeychainTokenCache initWithGroup:error:]:169	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:05:14] Init MSAIMSIDKeychainTokenCache with keychainGroup: Masked(not-null)
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	-[MSAIMSIDKeychainTokenCache initWithGroup:error:]:169	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:05:14] Init MSAIMSIDKeychainTokenCache with keychainGroup: Masked(not-null)
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	-[MSAIMSIDTokenResponse setIdToken:]:88	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:05:14] Id token was set to nil in token response!
+2025-10-19 14:05:14 +0000 [ERROR] [ADALControllerImpl.swift:626] [MSAL:0001]	ERROR  	-[MSAIMSIDDefaultBrokerResponseHandler resultFromBrokerErrorResponse:tokenResult:decryptedResponse:]:280	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:05:14 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] Broker failed with error domain MSALErrorDomain, error code -50005, oauth error (null), sub error (null), description Masked(not-null)
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	-[MSAIMSIDBrokerInteractiveController acquireTokenImpl:]_block_invoke:171	TID=293561 (main thread) MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:05:14 - B07E0B7B-B0BF-4F6E-B8C3-AE92A53F0000] [MSAL.xplat.iOS] Broker flow finished.
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	ErrorInternalImpl:116	Created an error: 4ut1t, StatusInternal::UserCanceled, InternalEvent::None, Context 'Description: (pii), Domain: MSALErrorDomain.Error was thrown in sourceArea: Broker'
+2025-10-19 14:05:14 +0000 [WARNING] [ADALControllerImpl.swift:628] [MSAL:0001]	WARNING	ErrorInternalImpl:123	Error Code for 4ut1t should be zero, returned -50005 instead.
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: broker_app_used, Value: true
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendField:204	Key: auth_flow, Value: Broker
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendExecutionFlow:406	{"t":"8dqkn","tid":1,"ts":55750,"l":2,"a":5,"ie":1}
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	ClearActiveInteractiveRequest:178	Clearing active Interactive Request
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendExecutionFlow:406	{"t":"8dqko","tid":1,"ts":55750,"l":2,"a":9,"ie":1}
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	OnResponse:296	BrokerEventSink errored!
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	ClearActiveInteractiveRequest:183	Received call to clear interactive request, but _currentInteractiveRequest == nullptr
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: authorization_type, Value: Interactive
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendExecutionFlow:406	{"t":"646u1","tid":1,"ts":55750,"l":2}
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: api_error_code, Value: -50005
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: api_error_tag, Value: 4ut1t
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: api_status_code, Value: StatusInternal::UserCanceled
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: api_error_context, Value: Description: (pii), Domain: MSALErrorDomain.Error was thrown in sourceArea: Broker
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	AppendField:204	Key: all_error_tags, Value: 4ut1t
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: is_successful, Value: false
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetTimeField:190	Key: stop_time, Value: 2025-10-19T14:05:14.000Z
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0001]	DEBUG  	SetField:171	Key: request_duration, Value: 55751
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:456	Printing Telemetry for Correlation ID: b07e0b7b-b0bf-4f6e-b8c3-ae92a53f0000
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: stop_time, Value: 2025-10-19T14:05:14.000Z
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: all_error_tags, Value: 4ut1t
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: api_status_code, Value: StatusInternal::UserCanceled
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: api_error_tag, Value: 4ut1t
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: api_error_code, Value: -50005
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: authorization_type, Value: Interactive
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: ui_event_count, Value: 1
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: request_duration, Value: 55751
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: read_token_last_error, Value: missing required parameter
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: additional_query_parameters_count, Value: 1
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: api_error_context, Value: Description: (pii), Domain: MSALErrorDomain.Error was thrown in sourceArea: Broker
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: was_request_throttled, Value: false
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: request_eligible_for_broker, Value: true
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: is_successful, Value: false
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: auth_flow, Value: Broker
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: authority_type, Value: Unknown
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: original_authority, Value: https://login.windows.net/common
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: broker_app_used, Value: true
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: api_name, Value: SignInInteractively
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: start_time, Value: 2025-10-19T14:04:18.000Z
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: client_id, Value: 3dd3a51e-8d76-4cca-ac35-5537c1319211
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:464	Key: correlation_id, Value: b07e0b7b-b0bf-4f6e-b8c3-ae92a53f0000
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:469	Printing Execution Flow:
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	LogTelemetryData:477	{"t":"646u1","tid":1,"ts":0,"l":2},{"t":"4s7ub","tid":1,"ts":6,"l":2},{"t":"4sufd","tid":1,"ts":6,"s":2,"l":2},{"t":"4swgg","tid":1,"ts":6,"s":4,"l":2},{"t":"4swgf","tid":1,"ts":6,"s":1,"l":2},{"t":"4swgi","tid":8,"ts":6,"s":4,"l":2},{"t":"8dqim","tid":8,"ts":6,"l":2},{"t":"8dqkl","tid":8,"ts":8,"l":2,"a":9,"ie":0},{"t":"8dqkn","tid":1,"ts":55750,"l":2,"a":5,"ie":1},{"t":"8dqko","tid":1,"ts":55750,"l":2,"a":9,"ie":1},{"t":"646u1","tid":1,"ts":55750,"l":2}
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:6b224:b07e0b7b] MSAL execution flow: {"de":0,"ef":[{"t":"646u1","tid":1,"ts":0,"l":2},{"t":"4s7ub","tid":1,"ts":6,"l":2},{"t":"4sufd","tid":1,"ts":6,"s":2,"l":2},{"t":"4swgg","tid":1,"ts":6,"s":4,"l":2},{"t":"4swgf","tid":1,"ts":6,"s":1,"l":2},{"t":"4swgi","tid":8,"ts":6,"s":4,"l":2},{"t":"8dqim","tid":8,"ts":6,"l":2},{"t":"8dqkl","tid":8,"ts":8,"l":2,"a":9,"ie":0},{"t":"8dqkn","tid":1,"ts":55750,"l":2,"a":5,"ie":1},{"t":"8dqko","tid":1,"ts":55750,"l":2,"a":9,"ie":1},{"t":"646u1","tid":1,"ts":55750,"l":2}],"t":[]}
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:49ayy:b07e0b7b] Generating description for errorCode 3402 subStatus 0
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:4ut1t:b07e0b7b] User canceled sign in.
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:49zlh:b07e0b7b] Navigation flow is being dismissed
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [OneAuth:0001:Info:9zkad:b07e0b7b] Finish task SignInInteractively [0]
+2025-10-19 14:05:14 +0000 [INFO] [OneAuthTelemetryService.swift:66] Dispatched OneAuth event: TransactionRemoteDesktopV2Ios
+2025-10-19 14:05:14 +0000 [INFO] [OneAuthTelemetryService.swift:66] Dispatched OneAuth event: ActionRemoteDesktopV2Ios
+2025-10-19 14:05:14 +0000 [INFO] [OneAuthTelemetryService.swift:66] Dispatched OneAuth event: ActionRemoteDesktopV2Ios
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0001]	INFO   	ErrorInternalImpl:116	Created an error: 6pfm9, StatusInternal::UserCanceled, InternalEvent::None, Context ''
+2025-10-19 14:05:14 +0000 [INFO] [NetworkMonitor.swift:155] [NetworkMonitor] Overview=satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi, LQM: good | Status=satisfied | ActiveInterface=en0[wifi] | AvailableInterfaces=[en0[wifi], en0[wifi], pdp_ip0[cellular], utun4[other]] | Expensive=0 | Constrained=0
+2025-10-19 14:05:14 +0000 [ERROR] [ADErrorCode+Extensions.swift:170] OneAuthError: User canceled sign in., InternalErrorCode: 3402, Tag: 4ut1t, full error message: Error Domain=com.microsoft.authentication Code=7 "Description: (pii), Domain: MSALErrorDomain.Error was thrown in sourceArea: Broker" UserInfo={api_status_code=StatusInternal::UserCanceled, api_error_code=-50005, ui_event_count=1, read_token_last_error=missing required parameter, Message=User canceled sign in., auth_flow=Broker, is_successful=false, original_authority=https://login.windows.net/common, Domain=com.microsoft.oneauth, authorization_type=Interactive, Type=OneAuth, msal_version=1.1.0+012a7425, api_error_context=Description: (pii), Domain: MSALErrorDomain.Error was thrown in sourceArea: Broker, ErrorCode=3402, Tag=4ut1t, stop_time=2025-10-19T14:05:14.000Z, correlation_id=b07e0b7b-b0bf-4f6e-b8c3-ae92a53f0000, was_request_throttled=false, additional_query_parameters_count=1, request_eligible_for_broker=true, all_error_tags=4ut1t, Description=Description: (pii), Domain: MSALErrorDomain.Error was thrown in sourceArea: Broker, authority_type=Unknown, client_id=3dd3a51e-8d76-4cca-ac35-5537c1319211, request_duration=55751, SystemErrorCode=-50005, start_time=2025-10-19T14:04:18.000Z, broker_app_used=true, NSDebugDescription=Description: (pii), Domain: MSALErrorDomain.Error was thrown in sourceArea: Broker, api_error_tag=4ut1t, api_name=SignInInteractively}
+2025-10-19 14:05:14 +0000 [WARNING] [ADALControllerImpl.swift:628] [MSAL:0013]	WARNING	Start:52	Request dispatcher already running, attempt to start ignored
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0013]	DEBUG  	SetTimeField:190	Key: start_time, Value: 2025-10-19T14:05:14.000Z
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0013]	DEBUG  	SetField:171	Key: api_name, Value: ReadDeviceInfo
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0013]	DEBUG  	SetField:171	Key: client_id, Value: undefined
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0013]	DEBUG  	SetField:171	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0013]	DEBUG  	SetField:171	Key: correlation_id, Value: 0a122b5f-f1ae-436c-9242-782ab8594de1
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0013]	DEBUG  	SetField:171	Key: authority_type, Value: Unknown
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0013]	DEBUG  	SetField:171	Key: was_request_throttled, Value: false
+2025-10-19 14:05:14 +0000 [ERROR] [EditWorkspaceViewController.swift:1063] [MSALv2] user cancelled ADAL UI, not getting any claims token
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0013]	DEBUG  	SetField:171	Key: broker_app_used, Value: false
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0013]	DEBUG  	EnqueueBackgroundRequest:160	Enqueueing Request 5
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0013]	DEBUG  	WakeupDispatcherThread:429	Signalling _dispatcherEvent
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:284	WOKE UP
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:279	Checking queue
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	TryExecuteNextQueueItem:345	Popping item 5 from queue and executing it
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	WakeupDispatcherThread:429	Signalling _dispatcherEvent
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:284	WOKE UP
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:279	Checking queue
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	TryExecuteNextQueueItem:327	Request queue is empty, no item to execute
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0014]	DEBUG  	ExecuteQueueItemThreadProc:375	Executing item 5
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	-[MSAIBrokerClient isAuthorizationTypeSupported:]:849	Broker cannot perform device info requests
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	+[MSAIMSIDWorkPlaceJoinUtilBase getWPJKeysWithTenantId:context:]:293	TID=295764 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:05:14] Checking Legacy keychain for registration.
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0014]	DEBUG  	-[MSAIMSIDWPJKeyPairWithCert initWithPrivateKey:certificate:certificateIssuer:]:85	TID=295764 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:05:14] Retrieved WPJ issuer 0x1v0
+	&ò,dnet0
+	&ò,dwindows0UMS-ORGANIZATION-ACCESS0+U$82DBACA4-3E81-46CA-9C73-0950C1EACA97
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	+[MSAIMSIDWorkPlaceJoinUtilBase getWPJKeysWithTenantId:context:]:299	TID=295764 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-19 14:05:14] Returning RSA private device key from legacy registration.
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0014]	DEBUG  	AppendExecutionFlow:406	{"t":"4we74","tid":14,"ts":0,"l":2}
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0014]	DEBUG  	SetTimeField:190	Key: stop_time, Value: 2025-10-19T14:05:14.000Z
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0014]	DEBUG  	SetField:171	Key: request_duration, Value: 12
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:456	Printing Telemetry for Correlation ID: 0a122b5f-f1ae-436c-9242-782ab8594de1
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:464	Key: stop_time, Value: 2025-10-19T14:05:14.000Z
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:464	Key: was_request_throttled, Value: false
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:464	Key: authority_type, Value: Unknown
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:464	Key: broker_app_used, Value: false
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:464	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:464	Key: start_time, Value: 2025-10-19T14:05:14.000Z
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:464	Key: client_id, Value: undefined
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:464	Key: request_duration, Value: 12
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:464	Key: api_name, Value: ReadDeviceInfo
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:464	Key: correlation_id, Value: 0a122b5f-f1ae-436c-9242-782ab8594de1
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:469	Printing Execution Flow:
+2025-10-19 14:05:14 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0014]	INFO   	LogTelemetryData:477	{"t":"4we74","tid":14,"ts":0,"l":2}
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0014]	DEBUG  	ExecuteQueueItemThreadProc:377	Item 5 finished executing without throwing an error
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0014]	DEBUG  	UntrackQueueItem:418	Untracked queue item 5
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0014]	DEBUG  	WakeupDispatcherThread:429	Signalling _dispatcherEvent
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:284	WOKE UP
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:279	Checking queue
+2025-10-19 14:05:14 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	TryExecuteNextQueueItem:327	Request queue is empty, no item to execute
+2025-10-19 14:05:15 +0000 [VERBOSE] [LocalNetworkRequest.swift:82] [LocalNetworkRequest] Ready.
+2025-10-19 14:05:15 +0000 [VERBOSE] [LocalNetworkRequest.swift:86] [LocalNetworkRequest] Cancelled.
+2025-10-19 14:05:56 +0000 [INFO] [DisplayResolutions.swift:253] SafeAreaInsets: UIEdgeInsets(top: 0.0, left: 59.0, bottom: 21.0, right: 59.0)
+2025-10-19 14:05:57 +0000 [INFO] [DisplayResolutions.swift:253] SafeAreaInsets: UIEdgeInsets(top: 59.0, left: 0.0, bottom: 59.0, right: 0.0)
+2025-10-19 14:08:38 +0000 [INFO] [NetworkMonitor.swift:155] [NetworkMonitor] Overview=satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi, LQM: good | Status=satisfied | ActiveInterface=en0[wifi] | AvailableInterfaces=[en0[wifi], en0[wifi], pdp_ip0[cellular], utun4[other]] | Expensive=0 | Constrained=0
+2025-10-19 14:09:40 +0000 [INFO] [NetworkMonitor.swift:155] [NetworkMonitor] Overview=satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi, LQM: good | Status=satisfied | ActiveInterface=en0[wifi] | AvailableInterfaces=[en0[wifi], en0[wifi], pdp_ip0[cellular], utun4[other]] | Expensive=0 | Constrained=0
+2025-10-19 14:10:07 +0000 [INFO] [DisplayResolutions.swift:253] SafeAreaInsets: UIEdgeInsets(top: 59.0, left: 0.0, bottom: 59.0, right: 0.0)
+2025-10-19 14:10:18 +0000 [VERBOSE] [EditCredentialViewModel.swift:291] EditCredentialView model loaded [Credential: {id=011AAE1C-15B2-464F-8910-8664FC3F5E35, username=########}].
+2025-10-19 14:11:02 +0000 [INFO] [EditCredentialViewModel.swift:384] Credential saved [Credential: {id=9C23F6D8-8C65-4EFC-ABF9-C1BC48DD7970, username=########}].
+2025-10-19 14:12:28 +0000 [VERBOSE] [EditCredentialViewModel.swift:291] EditCredentialView model loaded [Credential: {id=A4D04C7D-E7CA-4AA3-B659-D47A9F5D8FF0, username=########}].
+2025-10-19 14:13:40 +0000 [INFO] [NetworkMonitor.swift:155] [NetworkMonitor] Overview=satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi, LQM: good | Status=satisfied | ActiveInterface=en0[wifi] | AvailableInterfaces=[en0[wifi], en0[wifi], pdp_ip0[cellular], utun4[other]] | Expensive=0 | Constrained=0
+2025-10-19 14:13:44 +0000 [INFO] [EditCredentialViewModel.swift:384] Credential saved [Credential: {id=17762AE7-DA81-4DF3-8BBE-23009FFD7D02, username=########}].
+2025-10-19 14:13:47 +0000 [VERBOSE] [EditCredentialViewModel.swift:291] EditCredentialView model loaded [Credential: {id=BF3B2173-19BF-48A4-BC5C-3F21444472D2, username=########}].
+2025-10-19 14:14:19 +0000 [INFO] [EditCredentialViewModel.swift:384] Credential saved [Credential: {id=5452917E-275F-43E5-8E03-481A5B1B9FF4, username=########}].
+2025-10-19 14:14:21 +0000 [VERBOSE] [EditCredentialViewModel.swift:291] EditCredentialView model loaded [Credential: {id=840A03D3-4204-461A-B7AC-8013B5597965, username=########}].
+2025-10-19 14:14:42 +0000 [INFO] [NetworkMonitor.swift:155] [NetworkMonitor] Overview=satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi, LQM: good | Status=satisfied | ActiveInterface=en0[wifi] | AvailableInterfaces=[en0[wifi], en0[wifi], pdp_ip0[cellular], utun4[other]] | Expensive=0 | Constrained=0
+2025-10-19 14:15:13 +0000 [INFO] [EditCredentialViewModel.swift:384] Credential saved [Credential: {id=3236785D-FD64-4450-8C76-0D011759F552, username=########}].
+2025-10-19 14:17:26 +0000 [INFO] [NetworkMonitor.swift:127] [NetworkMonitor] NetworkMonitor stopped due to sleep
+2025-10-20 01:12:12 +0000 [INFO] [NetworkMonitor.swift:127] [NetworkMonitor] NetworkMonitor stopped due to sleep
+2025-10-20 01:12:13 +0000 [INFO] [NetworkMonitor.swift:133] [NetworkMonitor] NetworkMonitor started after wake
+2025-10-20 01:12:13 +0000 [INFO] [NetworkMonitor.swift:155] [NetworkMonitor] Overview=satisfied (Path is satisfied), interface: en0[802.11], ipv4, ipv6, dns, uses wifi, LQM: good | Status=satisfied | ActiveInterface=en0[wifi] | AvailableInterfaces=[en0[wifi], en0[wifi], pdp_ip0[cellular], utun4[other]] | Expensive=0 | Constrained=0
+2025-10-20 01:12:44 +0000 [INFO] [NetworkMonitor.swift:133] [NetworkMonitor] NetworkMonitor started after wake
+2025-10-20 01:12:44 +0000 [WARNING] [ADALControllerImpl.swift:628] [MSAL:0015]	WARNING	Start:52	Request dispatcher already running, attempt to start ignored
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0015]	DEBUG  	SetTimeField:190	Key: start_time, Value: 2025-10-20T01:12:44.000Z
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0015]	DEBUG  	SetField:171	Key: api_name, Value: ReadDeviceInfo
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0015]	DEBUG  	SetField:171	Key: client_id, Value: undefined
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0015]	DEBUG  	SetField:171	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0015]	DEBUG  	SetField:171	Key: correlation_id, Value: 674378eb-5fbb-46a1-bf3f-d7a8c8caa2dc
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0015]	DEBUG  	SetField:171	Key: authority_type, Value: Unknown
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0015]	DEBUG  	SetField:171	Key: was_request_throttled, Value: false
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0015]	DEBUG  	SetField:171	Key: broker_app_used, Value: false
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0015]	DEBUG  	EnqueueBackgroundRequest:160	Enqueueing Request 6
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0015]	DEBUG  	WakeupDispatcherThread:429	Signalling _dispatcherEvent
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:284	WOKE UP
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:279	Checking queue
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	TryExecuteNextQueueItem:345	Popping item 6 from queue and executing it
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	WakeupDispatcherThread:429	Signalling _dispatcherEvent
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:284	WOKE UP
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:279	Checking queue
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	TryExecuteNextQueueItem:327	Request queue is empty, no item to execute
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0016]	DEBUG  	ExecuteQueueItemThreadProc:375	Executing item 6
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	-[MSAIBrokerClient isAuthorizationTypeSupported:]:849	Broker cannot perform device info requests
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	+[MSAIMSIDWorkPlaceJoinUtilBase getWPJKeysWithTenantId:context:]:293	TID=468621 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-20 01:12:44] Checking Legacy keychain for registration.
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0016]	DEBUG  	-[MSAIMSIDWPJKeyPairWithCert initWithPrivateKey:certificate:certificateIssuer:]:85	TID=468621 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-20 01:12:44] Retrieved WPJ issuer 0x1v0
+	&ò,dnet0
+	&ò,dwindows0UMS-ORGANIZATION-ACCESS0+U$82DBACA4-3E81-46CA-9C73-0950C1EACA97
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	+[MSAIMSIDWorkPlaceJoinUtilBase getWPJKeysWithTenantId:context:]:299	TID=468621 MSAL.xplat.iOS 1.1.0+012a7425 iOS 26.1 [2025-10-20 01:12:44] Returning RSA private device key from legacy registration.
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0016]	DEBUG  	AppendExecutionFlow:406	{"t":"4we74","tid":16,"ts":0,"l":2}
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0016]	DEBUG  	SetTimeField:190	Key: stop_time, Value: 2025-10-20T01:12:44.000Z
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0016]	DEBUG  	SetField:171	Key: request_duration, Value: 15
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:456	Printing Telemetry for Correlation ID: 674378eb-5fbb-46a1-bf3f-d7a8c8caa2dc
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:464	Key: stop_time, Value: 2025-10-20T01:12:44.000Z
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:464	Key: was_request_throttled, Value: false
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:464	Key: authority_type, Value: Unknown
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:464	Key: broker_app_used, Value: false
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:464	Key: msal_version, Value: 1.1.0+012a7425
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:464	Key: start_time, Value: 2025-10-20T01:12:44.000Z
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:464	Key: client_id, Value: undefined
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:464	Key: request_duration, Value: 15
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:464	Key: api_name, Value: ReadDeviceInfo
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:464	Key: correlation_id, Value: 674378eb-5fbb-46a1-bf3f-d7a8c8caa2dc
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:469	Printing Execution Flow:
+2025-10-20 01:12:44 +0000 [INFO] [ADALControllerImpl.swift:630] [MSAL:0016]	INFO   	LogTelemetryData:477	{"t":"4we74","tid":16,"ts":0,"l":2}
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0016]	DEBUG  	ExecuteQueueItemThreadProc:377	Item 6 finished executing without throwing an error
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0016]	DEBUG  	UntrackQueueItem:418	Untracked queue item 6
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0016]	DEBUG  	WakeupDispatcherThread:429	Signalling _dispatcherEvent
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:284	WOKE UP
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	DispatcherThreadProc:279	Checking queue
+2025-10-20 01:12:44 +0000 [VERBOSE] [ADALControllerImpl.swift:632] [MSAL:0002]	DEBUG  	TryExecuteNextQueueItem:327	Request queue is empty, no item to execute
+2025-10-20 01:12:45 +0000 [VERBOSE] [RDCPasteboard.swift:63] Updating session pasteboard [formats=[], session=Client.RDCPasteboard].
+2025-10-20 01:12:45 +0000 [VERBOSE] [LocalNetworkRequest.swift:82] [LocalNetworkRequest] Ready.
+2025-10-20 01:12:45 +0000 [VERBOSE] [LocalNetworkRequest.swift:86] [LocalNetworkRequest] Cancelled.
+2025-10-20 01:12:49 +0000 [VERBOSE] [AppDelegate.swift:369] [TEARDOWN] Starting app teardown sequence
+2025-10-20 01:12:49 +0000 [VERBOSE] [AppDelegate.swift:829] [TEARDOWN] Clean up user defaults before terminating app.
+2025-10-20 01:12:49 +0000 [INFO] [ExternalMouseEventHandler.swift:67] [ExternalMouse] Stopping External Mouse integration
+2025-10-20 01:12:49 +0000 [INFO] [ExternalMouseManager.swift:203] [ExternalMouse] Stopped scanning
+2025-10-20 01:12:49 +0000 [VERBOSE] [AppDelegate.swift:372] [TEARDOWN] All sessions disconnected, terminating app...
